@@ -1,0 +1,18 @@
+type: remote_edu
+custom_name: stage2
+files:
+- name: main.go
+  visible: true
+  text: "package main\n\nimport \"fmt\"\n\nfunc main() {\n\tfmt.Println(\"Starting\
+    \ to make a coffee\")\n    fmt.Println(\"Grinding coffee beans\")\n    fmt.Println(\"\
+    Boiling water\")\n    fmt.Println(\"Mixing boiled water with crushed coffee beans\"\
+    )\n    fmt.Println(\"Pouring coffee into the cup\")\n    fmt.Println(\"Pouring\
+    \ some milk into the cup\")\n    fmt.Println(\"Coffee is ready!\")\n}\n"
+  learner_created: false
+- name: tests.py
+  visible: false
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/14003#comment
+check_profile: hyperskill_go
+status: Solved
+record: 1

@@ -1,0 +1,118 @@
+hyperskill_project:
+  id: 194
+  ide_files: https://stepik.org/media/attachments/lesson/555260/additional_files.json
+  is_template_based: false
+  use_ide: true
+update_date: Sat, 05 Nov 2022 06:47:58 UTC
+stages:
+- id: 965
+  step: 14002
+  is_completed: true
+- id: 966
+  step: 14003
+  is_completed: true
+- id: 967
+  step: 14004
+  is_completed: true
+- id: 968
+  step: 14005
+  is_completed: true
+- id: 969
+  step: 14006
+  is_completed: true
+- id: 970
+  step: 14007
+  is_completed: true
+topics:
+  0:
+  - title: IDE
+    theory_id: 10996
+  - title: Introduction to Go
+    theory_id: 17073
+  - title: Comments
+    theory_id: 16689
+  - title: Variables and constants
+    theory_id: 14468
+  - title: Computer programming
+    theory_id: 8739
+  - title: Paradigms
+    theory_id: 15860
+  - title: GoLand
+    theory_id: 19072
+  - title: Documentation
+    theory_id: 12069
+  - title: Input/Output
+    theory_id: 14527
+  1:
+  - title: Binary numbers
+    theory_id: 5544
+  - title: Hexadecimal numbers
+    theory_id: 8788
+  - title: Units of information
+    theory_id: 6865
+  - title: Primitive types
+    theory_id: 16871
+  - title: Arithmetic operations
+    theory_id: 16679
+  - title: Unicode
+    theory_id: 7899
+  - title: Strings
+    theory_id: 15412
+  - title: String formatting
+    theory_id: 16860
+  - title: Arithmetic expressions in programming
+    theory_id: 17289
+  2:
+  - title: Control statements
+    theory_id: 16235
+  3:
+  - title: Computer algorithms
+    theory_id: 16547
+  - title: The big O notation
+    theory_id: 16699
+  - title: Best, average and worst cases
+    theory_id: 20084
+  - title: Data structures
+    theory_id: 16927
+  - title: Pointers
+    theory_id: 15463
+  - title: Loops
+    theory_id: 14707
+  - title: Functions
+    theory_id: 16388
+  - title: Pseudocode
+    theory_id: 15090
+  - title: Pseudocode basics
+    theory_id: 19510
+  - title: Complex constructions in pseudocode
+    theory_id: 20922
+  - title: Fixed-size array
+    theory_id: 20078
+  - title: Arrays
+    theory_id: 14871
+  - title: Slices
+    theory_id: 15656
+  - title: Working with slices
+    theory_id: 15935
+  - title: Functions
+    theory_id: 13884
+  4:
+  - title: Functional decomposition
+    theory_id: 17506
+  - title: Design principles
+    theory_id: 8956
+  5:
+  - title: Introduction to Operating systems
+    theory_id: 9704
+  - title: Packages
+    theory_id: 15906
+  - title: Modules
+    theory_id: 15970
+  - title: Main (compiling and running)
+    theory_id: 16128
+  - title: Libraries
+    theory_id: 8504
+  - title: Semantic versioning
+    theory_id: 19244
+  - title: Compilers and interpreters
+    theory_id: 13865

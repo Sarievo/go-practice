@@ -1,0 +1,26 @@
+type: remote_edu
+custom_name: Buy, fill, take!
+files:
+- name: main.go
+  visible: true
+  text: "package main\n\nimport \"fmt\"\n\nfunc main() {\n    mlWater := 200\n   \
+    \ mlMilk := 50\n    gCoffee := 15\n    fmt.Println(\"Write how many cups of coffee\
+    \ you will need:\")\n    var nCoffee int\n    fmt.Scan(&nCoffee)\n    fmt.Println(\"\
+    %s ml of water\", mlWater * nCoffee)\n    fmt.Println(\"%s ml of milk\", mlMilk\
+    \ * nCoffee)\n    fmt.Println(\"%s g of coffee beans\", gCoffee * nCoffee)\n \
+    \   /*\n\tfmt.Println(\"Starting to make a coffee\")\n    fmt.Println(\"Grinding\
+    \ coffee beans\")\n    fmt.Println(\"Boiling water\")\n    fmt.Println(\"Mixing\
+    \ boiled water with crushed coffee beans\")\n    fmt.Println(\"Pouring coffee\
+    \ into the cup\")\n    fmt.Println(\"Pouring some milk into the cup\")\n    fmt.Println(\"\
+    Coffee is ready!\")\n    */\n}\n"
+  learner_created: false
+- name: tests.py
+  visible: false
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/14005#comment
+check_profile: hyperskill_go
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Thu, 03 Nov 2022 05:32:12 UTC
+record: 4
